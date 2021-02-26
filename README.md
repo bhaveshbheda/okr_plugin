@@ -5,13 +5,6 @@
 **Flowchart is synchronized with the selected code in real-time.**
 
 
-## Quick start
-**After install jsflowchart extension from Marketplace,**
-
--Right click the selected js code, then click "Show Flowchart".
-
-
-
 ## Installation in development mode
 ***Clone the source locally:***
 
