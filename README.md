@@ -15,7 +15,6 @@
 ## Installation in development mode
 ***Clone the source locally:***
 
-$ git clone https://github.com/MULU-github/jsflowchart
 
 $ cd jsflowchart
 
